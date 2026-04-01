@@ -1,0 +1,20 @@
+{
+  "name": "uc2_desenvolver-algoritimos",
+  "version": "1.0.0",
+  "description": "Repositório da Unidade Curricular 2 de TDS do Senac",
+  "main": "variaveis01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelBueno22/UC2---DesenvolvendoAlgoritimos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelBueno22/UC2---DesenvolvendoAlgoritimos/issues"
+  },
+  "homepage": "https://github.com/RafaelBueno22/UC2---DesenvolvendoAlgoritimos#readme"
+}
