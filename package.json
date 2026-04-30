@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RafaelBueno22/UC2---DesenvolvendoAlgoritimos/issues"
   },
-  "homepage": "https://github.com/RafaelBueno22/UC2---DesenvolvendoAlgoritimos#readme"
+  "homepage": "https://github.com/RafaelBueno22/UC2---DesenvolvendoAlgoritimos#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }

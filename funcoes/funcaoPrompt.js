@@ -40,11 +40,42 @@ console.log(`Uau! Ser capaz de ${poder} seria incrível!`)
 }
 poderImprimir()*/
 
-function criarApelido(){
+/*function criarApelido(){
 const nome = prompt("Qual o seu nome? ")
 const animal = prompt("Escolha um animal: ")
 console.log(`Seu novo apelido é: ${nome } ${animal}`)
 
 
 }
-criarApelido()
+criarApelido()*/
+
+/*function calcularArea (){
+
+  let b = Number(prompt("Digite um número: "))
+  let h = Number(prompt("Digite outro número: "))
+
+  let calculo = b * h
+  console.log(`A área do retangulo é ${calculo}`)
+
+}
+calcularArea()*/
+
+/*function calcularMeses() {
+const idade = prompt("Qual a sua idade?")
+
+const meses = idade*12
+
+console.log(`Você tem aproximadamente ${meses} meses` )
+
+}
+calcularMeses()*/
+
+function caixaAlta(){
+let mensagem = (prompt("Digite uma frase: "))
+//const caixaAlta = mensagem.toLocaleUpperCase()
+console.log(mensagem.toLocaleUpperCase())
+
+
+
+}
+caixaAlta()
