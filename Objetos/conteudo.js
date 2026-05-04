@@ -142,7 +142,7 @@ carro.buzinar()*/
     console.log(cachorro)
     cachorro.latir()*/
 
-    let jogo = {
+    /*let jogo = {
         nome: "Mario Kart",
         plataforma: "Mobile e PC",
         anoLancamento: 2002,
@@ -158,4 +158,18 @@ carro.buzinar()*/
 
     }
     jogo.jogar()
-    jogo.resumir()
+    jogo.resumir()*/
+
+
+    const donoDoPet = {
+        nome: "Vitor Hugo",
+
+        pet: {
+            nomeDoPet: "Lua",
+            raca: "Branca e Preto",
+            idade: 1
+
+        }
+
+    }
+    console.log(donoDoPet.pet.nomeDoPet)
